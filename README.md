@@ -2,7 +2,7 @@ ABOUT ME
 
 <h1> Hi there! I'm Daniel.</h1>
 <p> I'm interested in full stack development.</>
-<br>I'm currently working with TypeScript | JavaScript |  React | React Native | Node.js & Frameworks for mobile & web development.</br>
+<br>I'm currently working with TypeScript | JavaScript |  React | React Native | Node.js & Frameworks for web and mobile.</br>
 <br>
 
 <div align=`center`
