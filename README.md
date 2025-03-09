@@ -112,7 +112,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=valedaniel&color=blueviolet&style=flat" alt="Profile Views"/>
-  <a href="https://github.com/valedaniel?tab=followers">
+  <a href="https://github.com/valedaniel?tab=followers" target="_blank">
     <img src="https://img.shields.io/github/followers/valedaniel?label=Follow&style=social" alt="GitHub Followers"/>
   </a>
 </div>
