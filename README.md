@@ -96,10 +96,10 @@
 
 ### 📈 GitHub Analytics
 
-<div >
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=valedaniel&theme=vision-friendly-dark" alt="GitHub Streak"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=valedaniel&show_icons=true&theme=vision-friendly-dark&count_private=true"/> <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valedaniel&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
+<div style="display:flex; flex-direction: column; gap: 20px">
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=valedaniel&theme=vision-friendly-dark" alt="GitHub Streak"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=valedaniel&show_icons=true&theme=vision-friendly-dark&count_private=true" alt="GitHub Status"/> 
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valedaniel&layout=compact&langs_count=8&theme=vision-friendly-dark" alt="Most Used Languages"/>
 </div>
 
 ---
