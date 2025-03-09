@@ -68,7 +68,7 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/valedaniel/url-shortener-app">
+      <a href="https://github.com/valedaniel/url-shortener-app" rel="noopener noreferrer">
         <img src="https://opengraph.githubassets.com/1/valedaniel/url-shortener-app" alt="URL Shortener" style="border-radius: 8px; border: 1px solid #30363d"/>
         <br />
         <sub><b>🔗 URL Shortener API</b></sub>
@@ -77,7 +77,7 @@
       <span>Node.js | NestJS | PostgreSQL</span>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/valedaniel/tvmaze">
+      <a href="https://github.com/valedaniel/tvmaze" rel="noopener noreferrer">
         <img src="https://opengraph.githubassets.com/1/valedaniel/tvmaze" alt="TVMaze App" style="border-radius: 8px; border: 1px solid #30363d"/>
         <br />
         <sub><b>🎬 TVMaze Mobile App</b></sub>
@@ -106,13 +106,15 @@
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-souza-vale)
+<a href="https://www.linkedin.com/in/daniel-souza-vale" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=valedaniel&color=blueviolet&style=flat" alt="Profile Views"/>
-  <a href="https://github.com/valedaniel?tab=followers" target="_blank">
+  <a href="https://github.com/valedaniel?tab=followers" rel="noopener noreferrer">
     <img src="https://img.shields.io/github/followers/valedaniel?label=Follow&style=social" alt="GitHub Followers"/>
   </a>
 </div>
