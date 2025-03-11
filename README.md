@@ -97,7 +97,6 @@
 ### 📈 GitHub Analytics
 
 <div>
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=valedaniel&theme=vision-friendly-dark" alt="GitHub Streak"/>
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=valedaniel&show_icons=true&theme=vision-friendly-dark&count_private=true" alt="GitHub Status"/> 
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valedaniel&layout=compact&langs_count=8&theme=vision-friendly-dark" alt="Most Used Languages"/>
 </div>
